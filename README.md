@@ -1,1 +1,1 @@
-This is a practice project using HTML, CSS and JS
+A simple Tic Tac Toe game built with HTML, CSS and JS. 
